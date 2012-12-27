@@ -9,6 +9,6 @@
     "./font/fontawesome-webfont.woff",
     "./less/font-awesome.less",
     "./sass/font-awesome.sass",
-    "./sass/font-awesome.scss",
+    "./sass/font-awesome.scss"
   ]
 }
