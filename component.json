@@ -1,14 +1,5 @@
 {
   "name": "Font-Awesome",
   "version": "2.1.0",
-  "main": [
-    "./css/font-awesome.css",
-    "./font/fontawesome-webfont.eot",
-    "./font/fontawesome-webfont.svg",
-    "./font/fontawesome-webfont.ttf",
-    "./font/fontawesome-webfont.woff",
-    "./less/font-awesome.less",
-    "./sass/font-awesome.sass",
-    "./sass/font-awesome.scss"
-  ]
+  "main": ["./css/font-awesome.css","./font/fontawesome-webfont.eot","./font/fontawesome-webfont.svg","./font/fontawesome-webfont.ttf","./font/fontawesome-webfont.woff","./less/font-awesome.less","./sass/font-awesome.sass","./sass/font-awesome.scss"]
 }
